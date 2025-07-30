@@ -1,0 +1,26 @@
+uploads
+package-lock.jsonig
+awsS3connect.js
+s3use.js
+node_modules/
+
+# Environment variables
+
+.env
+
+# Logs
+
+logs/
+
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE config
+.vscode/
+.idea/
+
+# Logs
+app.log
