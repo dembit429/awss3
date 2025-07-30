@@ -1,6 +1,5 @@
 uploads
 package-lock.jsonig
-awsS3connect.js
 s3use.js
 node_modules/
 
